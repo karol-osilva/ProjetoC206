@@ -1,2 +1,2 @@
 # ProjetoC206
-Projeto criado para validação de nota em C206 e C207
+Projeto de um sistema para gerar nota fiscal.
